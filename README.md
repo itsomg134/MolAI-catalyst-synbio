@@ -224,9 +224,16 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 MIT © 2026 MolAI Team
 
 ---
-
 ##  Contact
 
-- **Email:** discovery@molai.bio  
-- **GitHub Issues:** [Report bug or request feature](https://github.com/your-org/molai-platform/issues)  
-- **Demo:** [https://molai-demo.vercel.app](https://molai-demo.vercel.app)
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
