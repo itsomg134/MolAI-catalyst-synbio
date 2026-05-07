@@ -24,6 +24,9 @@ MolAI is an end‑to‑end AI platform that accelerates molecular discovery for 
 
 ---
 
+
+<img width="1886" height="5576" alt="image" src="https://github.com/user-attachments/assets/a2a6d8d8-c00e-447e-8939-414552ac3662" />
+
 ##  Live Prototype Flowchart
 
 The interactive flowchart below demonstrates the **closed‑loop workflow**:
