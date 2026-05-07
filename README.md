@@ -52,21 +52,21 @@ molai-platform/
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
-│   │   │   ├── Flowchart.tsx       # React + TSX interactive flowchart
+│   │   │   ├── Flowchart.tsx
 │   │   │   ├── PredictionPanel.tsx
 │   │   │   └── KnowledgeGraphView.tsx
 │   │   ├── hooks/
 │   │   │   └── useActiveLearning.ts
 │   │   ├── styles/
-│   │   │   └── style.css           # main styling
+│   │   │   └── style.css
 │   │   ├── App.tsx
 │   │   └── index.html
-│   ├── package.json                # dependencies & scripts
-│   ├── tsconfig.json               # TypeScript configuration
+│   ├── package.json 
+│   ├── tsconfig.json
 │   └── public/
 ├── backend/
 │   ├── models/
-│   │   └── config.json             # model hyperparameters
+│   │   └── config.json
 │   ├── api/
 │   └── main.py
 └── README.md
