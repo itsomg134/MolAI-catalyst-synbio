@@ -137,7 +137,6 @@ python app.py
 ##  Prototype Workflow (JavaScript/TS Implementation)
 
 ```typescript
-// Example: React hook for active learning
 const useActiveLearning = (predictions: number[], actuals: number[]) => {
   const [discrepancy, setDiscrepancy] = useState<number[]>([]);
   
@@ -151,7 +150,6 @@ const useActiveLearning = (predictions: number[], actuals: number[]) => {
 ```
 
 ```javascript
-// Example: Generative design simulation (JavaScript)
 function generateCatalyst(targetReaction) {
     // Mock VAE inference
     const candidates = [
