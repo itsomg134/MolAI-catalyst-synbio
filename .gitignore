@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # v0 sandbox internal files
 __v0_runtime_loader.js
 __v0_devtools.tsx
@@ -13,3 +14,59 @@ __v0_jsx-dev-runtime.ts
 node_modules
 .next/
 .DS_Store
+=======
+# http://www.gnu.org/software/automake
+
+Makefile.in
+/ar-lib
+/mdate-sh
+/py-compile
+/test-driver
+/ylwrap
+.deps/
+.dirstamp
+
+# http://www.gnu.org/software/autoconf
+
+autom4te.cache
+/autoscan.log
+/autoscan-*.log
+/aclocal.m4
+/compile
+/config.cache
+/config.guess
+/config.h.in
+/config.log
+/config.status
+/config.sub
+/configure
+/configure.scan
+/depcomp
+/install-sh
+/missing
+/stamp-h1
+
+# https://www.gnu.org/software/libtool/
+
+/libtool
+/ltmain.sh
+.libs/
+
+# http://www.gnu.org/software/texinfo
+
+/texinfo.tex
+
+# http://www.gnu.org/software/m4/
+
+m4/libtool.m4
+m4/ltoptions.m4
+m4/ltsugar.m4
+m4/ltversion.m4
+m4/lt~obsolete.m4
+
+# Generated Makefile
+# (meta build system like autotools,
+# can automatically generate from config.status script
+# (which is called by configure script))
+Makefile
+>>>>>>> 6056b66cf95948ddf44210f293354cf8a3eaa9b2
